@@ -1,5 +1,6 @@
 <!DOCTYPE HTML><html>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <title>Frequently Asked Questions - Chaturbate Performer </title>
 <link href="/boot.css" rel="stylesheet" media="screen">
@@ -11,6 +12,7 @@
  <script src="/jquery.mini.js"></script>
   <script src="/popper.js"></script>
   <script src="/boot.js"></script>
+  <link href="/mobile.css" rel="stylesheet" type="text/css">
 
   <body style="background-color:#48953f; height:500px;" /> 
 <center><div class="container text-center" style="margin-top:130px; margin-bottom:-20px;  border-radius: 5px;   width:800px; background-color:white; " > 

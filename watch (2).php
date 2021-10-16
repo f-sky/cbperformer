@@ -3,6 +3,8 @@ $input = "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]" ; preg_match('@/watch
  ?>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 <meta name="robots" content="noindex">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <title>Watch  <?php echo $id[1]; ?> on Chaturbate Performer</title>
 <link href="/boot.css" rel="stylesheet" media="screen">
 <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
@@ -11,7 +13,7 @@ $input = "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]" ; preg_match('@/watch
 <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>  
 <link rel="shortcut icon" type=image/ico href="/favicon.png"/>
 <link rel="stylesheet" href="/player.css" type="text/css"/><script src="/player.js"></script>
-
+<link href="/mobile.css" rel="stylesheet" type="text/css">  
 
 
 <body style="background-color:#48953f; height:700px;" /> 

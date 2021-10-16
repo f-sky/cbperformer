@@ -11,6 +11,7 @@ header('Location: http://cbperformer.com/') ;
 <!DOCTYPE HTML><html>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 <meta name="robots" content="noindex">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title><?php echo $modelname[1]; ?> - Dashboard  </title>
 <link href="https://cbperformer.com/boot.css" rel="stylesheet" media="screen">
 <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
@@ -19,7 +20,7 @@ header('Location: http://cbperformer.com/') ;
 <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>  
 <link rel="shortcut icon" type=image/ico href="https://cbperformer.com/favicon.png"/>
 <link href="https://cbperformer.com/style2.css" rel="stylesheet" media="screen" title="default">
-
+<link href="/mobile.css" rel="stylesheet" type="text/css">  
 <?php
    
    

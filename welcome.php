@@ -7,6 +7,7 @@
  ?><meta name="Keywords" content="Chaturbate, webcam, adult cam, adult performer, camgirls, webcam tube, free cam videos, XXX tube, camwhores, cam show, <?php echo $modelname[1]  ?>, <?php echo $modelname[1]  ?> show, <?php echo $modelname[1]  ?> chaturbate,"><meta property="og:image" content="https://cbperformer.com/roomimages/<?php echo $modelname[1]  ?>.jpg"><meta name="description" content="Do you want to have access to unlimited videos of <?php echo $modelname[1]  ?>. Then join and stream or download videos of your favorite broadcaster from Chaturbate.">
 <meta property="og:description" content="Get unlimited webcam shows from <?php echo $modelname[1]  ?> - Chaturbate Performer ">
 <meta name="RATING" content="RTA-5042-1996-1400-1577-RTA">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Get unlimited webcam shows from <?php echo $modelname[1]  ?> - Chaturbate Performer </title>
 <link href="/boot.css" rel="stylesheet" media="screen">
 <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
@@ -17,6 +18,7 @@
  <script src="/jquery.mini.js"></script>
   <script src="/popper.js"></script>
   <script src="/boot.js"></script>
+  <link href="/mobile.css" rel="stylesheet" type="text/css">  
 
 <body style="background-color:#48953f; height:500px;" /> 
 <center><div class="container text-center" style="margin-top:130px; margin-bottom:-20px;  border-radius: 5px;   width:800px; background-color:white; " > 

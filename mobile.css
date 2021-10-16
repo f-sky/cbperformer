@@ -1,0 +1,64 @@
+@media only screen and (max-width: 767px) {
+
+    .container {
+        width: 90% !important;
+        margin-top: 25px !important;
+    }
+    .mobileul ui > div {
+        margin-left: unset !important;
+        align-items: center;
+        width: fit-content;
+    }
+
+    /* Hide scrollbar for Chrome, Safari and Opera */
+    .container::-webkit-scrollbar {
+        display: none;
+    }
+    
+    /* Hide scrollbar for IE, Edge and Firefox */
+    .container {
+        -ms-overflow-style: none;  /* IE and Edge */
+        scrollbar-width: none;  /* Firefox */
+    }
+    .panel.panel-success div:last-child {
+        width: unset !important;
+    }
+    .panel-body h1 {
+        word-wrap: break-word;
+    }
+    .panel-body div {
+        width:  fit-content !important;
+    }
+    .panel-body div a {
+        font-size: 20px;
+    }
+    .panel-body > img {
+        width: 100% !important;
+    }
+    .panel-body .label {
+        white-space: normal;
+    }
+    .panel-body .label.label-success {
+        white-space: nowrap;
+    }
+    .panel-body video {
+        width: 100% !important;
+        height: auto;
+    }
+    .panel button.btn-link {
+        white-space: normal;
+    }
+    .panel.panel-success a.btn-cta-primary,
+    .panel-body a.btn-cta-primary {
+        font-size: 10px;
+        padding: 5px;
+    }
+    .pages li {
+        margin-left: 30px;
+    }    
+    .container .form-group button.btn-cta {
+        white-space: normal;
+        font-size: 10px;
+    }
+
+}

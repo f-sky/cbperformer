@@ -3,6 +3,7 @@
 <title>Chaturbate Performer - Index of your favorite broadcasters</title> 
 <meta name="description" content="Index list of all your favorite Chaturbate Performer to purchase a membership and get unlimited recordings of your  model. 24 hours 7 days a week monitoring. Stream or download full length videos in your dashboard.">
 <meta name="RATING" content="RTA-5042-1996-1400-1577-RTA">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link href="/boot.css" rel="stylesheet" media="screen">
 <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
 <link href="/style.css" rel="stylesheet" media="screen" title="default">
@@ -10,6 +11,7 @@
 <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>  
 <link rel="shortcut icon" type=image/ico href="/favicon.png"/>
 <link href="/style2.css" rel="stylesheet" media="screen" title="default">
+<link href="/mobile.css" rel="stylesheet" type="text/css">  
 
 
 
